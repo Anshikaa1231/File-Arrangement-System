@@ -30,15 +30,6 @@ Managing large numbers of files can become difficult when documents, images, vid
 
 ---
 
-## ⚙️ Installation
-
-1. Clone this repository.
-2. Install the required dependencies (if any).
-3. Run the main Python file.
-4. Select the folder you want to organize.
-5. The application will automatically arrange files into categorized folders.
-
----
 
 ## 📂 Supported File Categories
 
